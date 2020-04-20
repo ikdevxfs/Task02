@@ -1,2 +1,2 @@
 # Task02
-GPG samples
+Zadanie znajdziesz w zakodowanym pliku decode-it.b64. Zdekoduj i działaj.
